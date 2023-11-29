@@ -1,2 +1,2 @@
 # practice
-personal exercises
+personal exercises for learning
